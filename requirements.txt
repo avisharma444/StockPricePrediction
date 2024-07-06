@@ -132,7 +132,7 @@ python-version==0.0.2
 pytz==2022.7.1
 PyWavelets==1.4.1
 #pywin32==306
-pywinpty==2.0.10
+#pywinpty==2.0.10
 PyYAML==6.0
 pyzmq==25.0.2
 qudida==0.0.4
