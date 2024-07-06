@@ -1,5 +1,7 @@
 # Stock Price Prediction
 
+[streamlit-Homepage-2024-07-07-02-07-09.webm](https://github.com/avisharma444/StockPricePrediction/assets/117980764/f49f8faa-e6d0-4cf5-9be2-09351daac8bb)
+
 Website:
 - https://stockpricepredictionproject.streamlit.app/
   
