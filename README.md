@@ -4,6 +4,9 @@
 
 Website:
 - https://stockpricepredictionproject.streamlit.app/
+
+Report:
+- https://drive.google.com/file/d/1kmQYkZz40bIra7Kr81ScgZUiPGWPuNMK/view?usp=sharing
   
 Authors:
 - Avi Sharma (2022119)
